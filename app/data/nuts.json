@@ -1,0 +1,61 @@
+[
+    {
+        "id": "peanuts",
+        "group": "nuts",
+        "name": "Peanuts",
+        "quantity": 1200,
+        "price": 2.3,
+        "description": "Fresh, Raw Peanuts from Nigeria in the shell. High in protein.",
+        "origin": "Nigeria",
+        "pic": "peanuts.jpg",
+        "description2": "Health Tips ===== - The peanut is not a nut, but a legume related to beans and lentils. - A study published in the American Journal of Clinical Nutrition (December 1999) showed that diets higher in monounsaturated fats from peanuts and peanut butter reduces the risk of cardiovascular disease by 21% compared to the average American Diet, whereas a low-fat diet reduced the risk by only 12%.- A diet containing peanuts and peanut butter is a good source of protein and helps to include more of the \"good fat\" (unsaturated fat) and both naturally have zero cholesterol.",
+        "nf":
+        {
+            "serving_size": 100,
+            "calories":	567,
+            "calories_from_fat": 412,
+            "fat":49,
+            "saturated_fat":7,
+            "trans_fat":0,
+            "cholesterol":0,
+            "sodium":18,
+            "carbohydrate":16,
+            "fiber":8,
+            "sugar":4,
+            "protein":26,
+            "vitamin_a":0,
+            "vitamin_c":0,
+            "calcium":9,
+            "iron":25
+        }
+    },
+    {
+        "id": "walnut",
+        "group": "nuts",
+        "name": "Walnut",
+        "species": "English Walnut",
+        "quantity": 10000,
+        "price": 5.1,
+        "description": "This delicious nut is the most popular nut in the shell. Grown in China.",
+        "origin": "China",
+        "pic": "walnuts.jpg",
+        "description2":
+        "Health Tips ====== - Walnuts are low in saturated fat and high in both polyunsaturated and mono-unsaturated fat. - Walnuts are an excellent source of omega-3 and omega-6 fatty acids, particularly when bought in their shells and eaten while fresh. The 1.5 ounces of walnuts cited by the FDA also more than fulfill the daily requirement of essential omega-3 fatty acids, a critical nutrient deficient in the American diet. Among tree nuts, walnuts are distinctive because of their concentration of omega-3 fatty acids. - Walnuts contain no cholesterol and are an important source of dietary fiber and protein. They are also a good source of many vitamins and minerals including potassium, magnesium, phosphorus, copper, zinc, vitamin B1, B6, folate, and vitamin E. - Research has found that eating regular amounts of walnuts reduces bad cholesterol (LDL) in the blood. - With a 7:1 ratio of polyunsaturated to saturated fat, walnuts are one of the highest naturally occurring sources of polyunsaturated fats. - Polyunsaturated fats are an important source of essential fatty acids (EFAs) which we must get from the food we eat. Walnuts are a rich plant source of alpha-linolenic acid, a key EFA from which omega-3 fatty acids are derived. - Eating a handful of walnuts a day can lower blood cholesterol. The results of a study conducted at Loma Linda University and reported in 1993 in the New England Journal of Medicine determined that walnuts were beneficial in reducing blood cholesterol levels and protecting against heart disease. Researchers at Loma Linda found that when men with normal cholesterol values were given walnuts instead of foods high in saturated fat and, when calorie levels were held constant, their blood cholesterol levels dropped by more than 12% and their LDL, or bad cholesterol, lowered by more than 16%. - Walnuts are a natural source of phytochemicals and antioxidants which protect cells from free radical damage that could result in cancers or heart disease.",
+        "nf":
+        {
+            "serving_size": 100,
+            "calories":	567,
+            "calories_from_fat": 412,
+            "cholesterol":0,
+            "carbohydrate":13.7,
+            "fiber":6.7,
+            "protein":15.2,
+            "vitamin_b6":0.00054,
+            "calcium":0.098,
+            "iron":0.0029,
+            "zinc":0.0031,
+            "omega3": 9.079,
+            "omega6": 38.092
+        }
+    }
+]

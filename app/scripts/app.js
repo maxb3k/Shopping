@@ -10,7 +10,7 @@ angular.module('shoppingApp', [
     .config(function ($routeProvider) {
         $routeProvider
             .when('/', {
-                templateUrl: 'views/main.html',
+                templateUrl: '../views/home.html',
                 controller: 'GoodsCtrl'
             })
             .otherwise({
@@ -23,6 +23,7 @@ angular.module('shoppingApp', [
         return function (amount) {
             return currencyFilter(amount, '$') + '/100g';
         }
-    } ]);
-
-
+    } ])
+    .run(function($rootScope) {
+        $rootScope.ui = {'showCart': false};
+    });
